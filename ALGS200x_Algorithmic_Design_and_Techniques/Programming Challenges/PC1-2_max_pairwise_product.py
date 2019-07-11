@@ -3,9 +3,8 @@ n = int(input())
 a = [int(x) for x in input().split()]
 assert(len(a) == n)
 
+# Solution provided:
 '''
-Solution provided:
-
 result = 0
 
 for i in range(0, n):
