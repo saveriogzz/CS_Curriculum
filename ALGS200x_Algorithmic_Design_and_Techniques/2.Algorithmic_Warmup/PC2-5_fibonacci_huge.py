@@ -15,7 +15,7 @@ def get_fibonacci_huge_naive(n, m):
 
     return current % m
 '''
-
+"""
 def get_fibonacci_huge(n, m):
     d = {0:0, 1:1}
     def fib(n):
@@ -30,6 +30,37 @@ def get_fibonacci_huge(n, m):
     else:
         r = fib(n%(2*(m+1))) % m
         return r
+"""
+
+def get_fibonacci_huge(n, m):
+
+    d = {0:0, 1:1}
+    def fib(n):
+        """
+        This function simply returns a
+        Fibonacci number recursively.
+        """
+        if n in d: return d[n]
+        else:
+            d[n] = fib(n-1) + fib(n-2)
+            return d[n]
+
+    def pisano_period(m):
+        """
+        This returns the Pisano period
+        relative to the divisor 'm'.
+        """
+        previous = 1
+        current = 1
+
+        result = 1
+        while not (previous == 0 and current == 1):
+            previous, current = current, (previous + current) % m
+            result += 1
+
+        return result
+
+    return fib(n%pisano_period(m)) % m
 
 if __name__ == '__main__':
     input = sys.stdin.read();
