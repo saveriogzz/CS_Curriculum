@@ -15,35 +15,26 @@ def get_fibonacci_huge_naive(n, m):
 
     return current % m
 '''
-"""
+
 def get_fibonacci_huge(n, m):
+    """
     d = {0:0, 1:1}
     def fib(n):
         if n in d: return d[n]
         else:
             d[n] = fib(n-1) + fib(n-2)
             return d[n]
+    """
 
-    if m % 2 == 0:
-        r = fib(n%(4*m)) % m
-        return r
-    else:
-        r = fib(n%(2*(m+1))) % m
-        return r
-"""
+    def fib(n, m):
+        if n < 2: return n
 
-def get_fibonacci_huge(n, m):
+        results = [1, 1]
+        for _ in range(n - 2):
+            results.append((results[-1] + results[-2]) % m)
 
-    d = {0:0, 1:1}
-    def fib(n):
-        """
-        This function simply returns a
-        Fibonacci number recursively.
-        """
-        if n in d: return d[n]
-        else:
-            d[n] = fib(n-1) + fib(n-2)
-            return d[n]
+        return results[-1]
+
 
     def pisano_period(m):
         """
