@@ -1,0 +1,249 @@
+avahi      851     1  0 14:13 ?        00:00:11 avahi-daemon: running [ubuntu.local]
+avahi      915   851  0 14:13 ?        00:00:00 avahi-daemon: chroot helper
+colord     926     1  0 14:13 ?        00:00:00 /usr/lib/x86_64-linux-gnu/colord
+kernoops  1366     1  0 14:14 ?        00:00:00 /usr/sbin/kerneloops --test
+kernoops  1372     1  0 14:14 ?        00:00:00 /usr/sbin/kerneloops
+lp        1002   838  0 14:13 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus://
+lp        2060   838  0 14:14 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus://
+message+   844     1  0 14:13 ?        00:00:04 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         1     0  0 14:13 ?        00:00:12 /sbin/init splash
+root      1018   939  0 14:13 ?        00:00:00 winbindd: domain child [UBUNTU]
+root        10     2  0 14:13 ?        00:00:19 [rcu_sched]
+root       105     2  0 14:13 ?        00:00:00 [kthrotld]
+root     10605     2  0 18:06 ?        00:00:00 [loop16]
+root       106     2  0 14:13 ?        00:00:00 [acpi_thermal_pm]
+root       110     2  0 14:13 ?        00:00:00 [ipv6_addrconf]
+root        11     2  0 14:13 ?        00:00:00 [rcu_bh]
+root     11885     2  0 22:05 ?        00:00:00 [irq/28-mei_me]
+root     11888     2  0 22:05 ?        00:00:00 [irq/16-mmc0]
+root     11889     2  0 22:05 ?        00:00:00 [kworker/u17:2-hci0]
+root       119     2  0 14:13 ?        00:00:00 [kstrp]
+root     12063   849  0 22:05 ?        00:00:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /run/dhclient-wlp3s0.pid -lf /var/lib/NetworkManager/dhclient-921e0006-2beb-482d-a34d-801d27b08a14-wlp3s0.lease -cf /var/lib/NetworkManager/dhclient-wlp3s0.conf wlp3s0
+root        12     2  0 14:13 ?        00:00:00 [migration/0]
+root     12457     2  0 22:13 ?        00:00:00 [kworker/3:1-events]
+root     12572     2  0 22:17 ?        00:00:00 [kworker/1:0-events]
+root     12614     2  0 22:21 ?        00:00:01 [kworker/u16:1-iwlwifi]
+root     12796     2  0 22:23 ?        00:00:00 [kworker/0:1-events]
+root     12857     2  0 22:24 ?        00:00:00 [kworker/2:0-mm_percpu_wq]
+root      1305     2  0 14:14 ?        00:00:00 [krfcommd]
+root     13161     2  0 22:26 ?        00:00:00 [kworker/3:0-events]
+root        13     2  0 14:13 ?        00:00:00 [watchdog/0]
+root     13218     2  0 22:28 ?        00:00:00 [kworker/u16:2-iwlwifi]
+root     13239     2  0 22:28 ?        00:00:00 [kworker/0:0-events]
+root     13248     2  0 22:28 ?        00:00:00 [kworker/1:1-events]
+root     13322     2  0 22:31 ?        00:00:00 [kworker/2:2-events]
+root     13435     2  0 22:33 ?        00:00:00 [kworker/u16:3-iwlwifi]
+root     13605     2  0 22:36 ?        00:00:00 [kworker/3:2-mm_percpu_wq]
+root     13629     2  0 22:37 ?        00:00:00 [kworker/0:2-events]
+root     13633     2  0 22:38 ?        00:00:00 [kworker/u16:0-iwlwifi]
+root       137     2  0 14:13 ?        00:00:00 [charger_manager]
+root        14     2  0 14:13 ?        00:00:00 [cpuhp/0]
+root      1465     1  0 14:14 ?        00:00:00 /usr/lib/upower/upowerd
+root        15     2  0 14:13 ?        00:00:00 [cpuhp/1]
+root      1599     1  0 14:14 ?        00:00:07 /usr/lib/packagekit/packagekitd
+root        16     2  0 14:13 ?        00:00:00 [watchdog/1]
+root        17     2  0 14:13 ?        00:00:00 [migration/1]
+root        18     2  0 14:13 ?        00:00:00 [ksoftirqd/1]
+root       193     2  0 14:13 ?        00:00:00 [scsi_eh_0]
+root       194     2  0 14:13 ?        00:00:00 [scsi_tmf_0]
+root       195     2  0 14:13 ?        00:00:00 [scsi_eh_1]
+root       196     2  0 14:13 ?        00:00:00 [scsi_tmf_1]
+root       197     2  0 14:13 ?        00:00:00 [scsi_eh_2]
+root       198     2  0 14:13 ?        00:00:00 [scsi_tmf_2]
+root       199     2  0 14:13 ?        00:00:00 [scsi_eh_3]
+root         2     0  0 14:13 ?        00:00:00 [kthreadd]
+root       200     2  0 14:13 ?        00:00:00 [scsi_tmf_3]
+root       201     2  0 14:13 ?        00:00:00 [scsi_eh_4]
+root        20     2  0 14:13 ?        00:00:00 [kworker/1:0H-kblockd]
+root       202     2  0 14:13 ?        00:00:00 [scsi_tmf_4]
+root       203     2  0 14:13 ?        00:00:00 [scsi_eh_5]
+root       204     2  0 14:13 ?        00:00:00 [scsi_tmf_5]
+root       211     2  0 14:13 ?        00:00:00 [kworker/3:1H-kblockd]
+root        21     2  0 14:13 ?        00:00:00 [cpuhp/2]
+root       218     2  0 14:13 ?        00:00:00 [kdmflush]
+root        22     2  0 14:13 ?        00:00:00 [watchdog/2]
+root       226     2  0 14:13 ?        00:00:00 [kdmflush]
+root        23     2  0 14:13 ?        00:00:00 [migration/2]
+root        24     2  0 14:13 ?        00:00:00 [ksoftirqd/2]
+root        26     2  0 14:13 ?        00:00:00 [kworker/2:0H-kblockd]
+root      2642     1  0 14:15 ?        00:00:00 /usr/lib/fwupd/fwupd
+root       265     2  0 14:13 ?        00:00:00 [kworker/0:1H-kblockd]
+root      2669     1  0 14:15 ?        00:00:00 /usr/lib/bolt/boltd
+root       271     2  0 14:13 ?        00:00:03 [jbd2/dm-0-8]
+root        27     2  0 14:13 ?        00:00:00 [cpuhp/3]
+root       272     2  0 14:13 ?        00:00:00 [ext4-rsv-conver]
+root        28     2  0 14:13 ?        00:00:00 [watchdog/3]
+root        29     2  0 14:13 ?        00:00:00 [migration/3]
+root        30     2  0 14:13 ?        00:00:00 [ksoftirqd/3]
+root       319     1  0 14:13 ?        00:00:01 /lib/systemd/systemd-journald
+root         3     2  0 14:13 ?        00:00:00 [rcu_gp]
+root        32     2  0 14:13 ?        00:00:00 [kworker/3:0H-kblockd]
+root       327     1  0 14:13 ?        00:00:00 /sbin/lvmetad -f
+root        33     2  0 14:13 ?        00:00:00 [kdevtmpfs]
+root       338     1  0 14:13 ?        00:00:01 /lib/systemd/systemd-udevd
+root        34     2  0 14:13 ?        00:00:00 [netns]
+root       343     2  0 14:13 ?        00:00:01 [kworker/2:1H-kblockd]
+root       346     2  0 14:13 ?        00:00:00 [kworker/1:1H-kblockd]
+root       347     2  0 14:13 ?        00:00:00 [loop0]
+root        35     2  0 14:13 ?        00:00:00 [rcu_tasks_kthre]
+root        36     2  0 14:13 ?        00:00:00 [kauditd]
+root       362     2  0 14:13 ?        00:00:00 [loop1]
+root       370     2  0 14:13 ?        00:00:00 [loop2]
+root       377     2  0 14:13 ?        00:00:00 [loop3]
+root       378     2  0 14:13 ?        00:00:00 [loop4]
+root        40     2  0 14:13 ?        00:00:00 [khungtaskd]
+root       402     2  0 14:13 ?        00:00:00 [loop5]
+root       403     2  0 14:13 ?        00:00:00 [loop6]
+root       405     2  0 14:13 ?        00:00:00 [loop7]
+root       409     2  0 14:13 ?        00:00:00 [loop8]
+root       411     2  0 14:13 ?        00:00:00 [loop9]
+root        41     2  0 14:13 ?        00:00:00 [oom_reaper]
+root       416     2  0 14:13 ?        00:00:00 [loop10]
+root         4     2  0 14:13 ?        00:00:00 [rcu_par_gp]
+root        42     2  0 14:13 ?        00:00:00 [writeback]
+root       430     2  0 14:13 ?        00:00:00 [loop11]
+root        43     2  0 14:13 ?        00:00:00 [kcompactd0]
+root       441     2  0 14:13 ?        00:00:00 [loop12]
+root        44     2  0 14:13 ?        00:00:00 [ksmd]
+root        45     2  0 14:13 ?        00:00:00 [khugepaged]
+root       459     2  0 14:13 ?        00:00:00 [loop13]
+root        46     2  0 14:13 ?        00:00:00 [crypto]
+root       470     2  0 14:13 ?        00:00:00 [loop14]
+root        47     2  0 14:13 ?        00:00:00 [kintegrityd]
+root       480     2  0 14:13 ?        00:00:00 [loop15]
+root        48     2  0 14:13 ?        00:00:00 [kblockd]
+root        49     2  0 14:13 ?        00:00:00 [ata_sff]
+root        50     2  0 14:13 ?        00:00:00 [md]
+root        51     2  0 14:13 ?        00:00:00 [edac-poller]
+root        52     2  0 14:13 ?        00:00:00 [devfreq_wq]
+root        53     2  0 14:13 ?        00:00:00 [watchdogd]
+root       576     2  0 14:13 ?        00:00:00 [cfg80211]
+root        58     2  0 14:13 ?        00:00:10 [kswapd0]
+root       585     2  0 14:13 ?        00:00:59 [irq/29-iwlwifi]
+root        60     2  0 14:13 ?        00:00:00 [ecryptfs-kthrea]
+root       614     2  0 14:13 ?        00:00:00 [kworker/u17:1-rb_allocator]
+root         6     2  0 14:13 ?        00:00:00 [kworker/0:0H-kblockd]
+root       623     2  0 14:13 ?        00:00:00 [ktpacpid]
+root       656     2  0 14:13 ?        00:00:05 [i915/signal:0]
+root       657     2  0 14:13 ?        00:00:00 [i915/signal:1]
+root       658     2  0 14:13 ?        00:00:00 [i915/signal:2]
+root         8     2  0 14:13 ?        00:00:00 [mm_percpu_wq]
+root       825     1  0 14:13 ?        00:00:00 /usr/sbin/acpid
+root       828     1  0 14:13 ?        00:00:00 /lib/systemd/systemd-logind
+root       831     1  0 14:13 ?        00:00:01 /usr/sbin/thermald --no-daemon --dbus-enable
+root       836     1  0 14:13 ?        00:00:00 /usr/sbin/cron -f
+root       838     1  0 14:13 ?        00:00:00 /usr/sbin/cupsd -l
+root       839     1  0 14:13 ?        00:00:15 /usr/lib/snapd/snapd
+root       840     1  0 14:13 ?        00:00:00 /usr/lib/accountsservice/accounts-daemon
+root       849     1  0 14:13 ?        00:00:03 /usr/sbin/NetworkManager --no-daemon
+root       854     1  0 14:13 ?        00:00:00 /usr/lib/bluetooth/bluetoothd
+root       862     1  0 14:13 ?        00:00:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root       864     1  0 14:13 ?        00:00:01 /usr/lib/udisks2/udisksd
+root       865     1  0 14:13 ?        00:00:00 /usr/sbin/irqbalance --foreground
+root       866     1  0 14:13 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root       869     1  0 14:13 ?        00:00:00 /usr/sbin/ModemManager --filter-policy=strict
+root       916     1  0 14:13 ?        00:00:01 /usr/sbin/cups-browsed
+root       918     1  0 14:13 ?        00:00:00 /usr/lib/policykit-1/polkitd --no-debug
+root         9     2  0 14:13 ?        00:00:00 [ksoftirqd/0]
+root       939     1  0 14:13 ?        00:00:00 /usr/sbin/winbindd --foreground --no-process-group
+root       940     1  0 14:13 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root       952     1  0 14:13 ?        00:00:00 /usr/sbin/gdm3
+root       971   952  0 14:13 ?        00:00:00 gdm-session-worker [pam/gdm-autologin]
+rtkit     1280     1  0 14:14 ?        00:00:00 /usr/lib/rtkit/rtkit-daemon
+saverio+  1008     1  0 14:13 ?        00:00:07 /usr/bin/gnome-keyring-daemon --daemonize --login
+saverio+  1012   971  0 14:13 tty2     00:00:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+saverio+  1014  1012  1 14:13 tty2     00:05:36 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+saverio+  1087   985  0 14:13 ?        00:00:05 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+saverio+  1090  1012  0 14:13 tty2     00:00:00 /usr/lib/gnome-session/gnome-session-binary --session=ubuntu
+saverio+  1219  1090  0 14:14 ?        00:00:00 /usr/bin/ssh-agent /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+saverio+ 12262  2134  1 22:06 tty2     00:00:19 /opt/google/chrome/chrome --type=renderer --field-trial-handle=4803797172773046980,1000624682571573616,131072 --service-pipe-token=4942756849162561842 --lang=en-US --enable-crash-reporter=6306bb95-2ff4-4a49-90d2-4f70d9de82b4, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=4942756849162561842 --renderer-client-id=440 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+saverio+ 12276  2134  0 22:06 tty2     00:00:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=4803797172773046980,1000624682571573616,131072 --service-pipe-token=1990052301882115623 --lang=en-US --enable-crash-reporter=6306bb95-2ff4-4a49-90d2-4f70d9de82b4, --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=1990052301882115623 --renderer-client-id=441 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+saverio+ 12303  2134  0 22:06 tty2     00:00:18 /opt/google/chrome/chrome --type=renderer --field-trial-handle=4803797172773046980,1000624682571573616,131072 --service-pipe-token=6435333520630491857 --lang=en-US --enable-crash-reporter=6306bb95-2ff4-4a49-90d2-4f70d9de82b4, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=6435333520630491857 --renderer-client-id=443 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+saverio+ 12317  2134  9 22:06 tty2     00:03:11 /opt/google/chrome/chrome --type=renderer --field-trial-handle=4803797172773046980,1000624682571573616,131072 --service-pipe-token=2168320498166491992 --lang=en-US --enable-crash-reporter=6306bb95-2ff4-4a49-90d2-4f70d9de82b4, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=2168320498166491992 --renderer-client-id=444 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+saverio+  1231   985  0 14:14 ?        00:00:00 /usr/lib/gvfs/gvfsd
+saverio+  1236   985  0 14:14 ?        00:00:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+saverio+  1247   985  0 14:14 ?        00:00:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+saverio+ 12517   985  0 22:17 ?        00:00:07 /usr/lib/gnome-terminal/gnome-terminal-server
+saverio+  1252  1247  0 14:14 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+saverio+  1254   985  0 14:14 ?        00:00:02 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+saverio+ 12698   985  0 22:22 ?        00:00:03 /usr/bin/nautilus --gapplication-service
+saverio+  1271  1090  1 14:14 tty2     00:06:50 /usr/bin/gnome-shell
+saverio+ 12718 12517  0 22:22 pts/1    00:00:00 bash
+saverio+  1279   985  0 14:14 ?        00:01:04 /usr/bin/pulseaudio --daemonize=no
+saverio+ 12830  2134  0 22:24 tty2     00:00:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=4803797172773046980,1000624682571573616,131072 --service-pipe-token=13979758427621280975 --lang=en-US --enable-crash-reporter=6306bb95-2ff4-4a49-90d2-4f70d9de82b4, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=13979758427621280975 --renderer-client-id=456 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+saverio+ 13647 12718  0 22:39 pts/1    00:00:00 ps -aef
+saverio+ 13648 12718  0 22:39 pts/1    00:00:00 sort
+saverio+  1425  1271  0 14:14 tty2     00:00:15 ibus-daemon --xim --panel disable
+saverio+  1429  1425  0 14:14 tty2     00:00:00 /usr/lib/ibus/ibus-dconf
+saverio+  1430  1425  0 14:14 tty2     00:00:03 /usr/lib/ibus/ibus-extension-gtk3
+saverio+  1432     1  0 14:14 tty2     00:00:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+saverio+  1434   985  0 14:14 ?        00:00:00 /usr/lib/ibus/ibus-portal
+saverio+  1443   985  0 14:14 ?        00:00:00 /usr/libexec/xdg-permission-store
+saverio+  1453   985  0 14:14 ?        00:00:00 /usr/lib/gnome-shell/gnome-shell-calendar-server
+saverio+  1457   985  0 14:14 ?        00:00:00 /usr/lib/evolution/evolution-source-registry
+saverio+  1466   985  0 14:14 ?        00:00:03 /usr/lib/gnome-online-accounts/goa-daemon
+saverio+  1475   985  0 14:14 ?        00:00:00 /usr/lib/dconf/dconf-service
+saverio+  1488   985  0 14:14 ?        00:00:00 /usr/lib/gvfs/gvfsd-metadata
+saverio+  1525   985  0 14:14 ?        00:00:00 /usr/lib/gnome-online-accounts/goa-identity-service
+saverio+  1545   985  0 14:14 ?        00:00:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+saverio+  1567   985  0 14:14 ?        00:00:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+saverio+  1572   985  0 14:14 ?        00:00:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+saverio+  1576   985  0 14:14 ?        00:00:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+saverio+  1580   985  0 14:14 ?        00:00:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+saverio+  1607  1090  0 14:14 tty2     00:00:01 /usr/lib/gnome-settings-daemon/gsd-power
+saverio+  1608  1090  0 14:14 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-print-notifications
+saverio+  1612  1090  0 14:14 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-rfkill
+saverio+  1631  1090  0 14:14 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-screensaver-proxy
+saverio+  1637  1090  0 14:14 tty2     00:00:01 /usr/lib/gnome-settings-daemon/gsd-sharing
+saverio+  1641  1090  0 14:14 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-smartcard
+saverio+  1642  1090  0 14:14 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-sound
+saverio+  1645  1090  0 14:14 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-xsettings
+saverio+  1657  1090  0 14:14 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-wacom
+saverio+  1667  1090  0 14:14 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-a11y-settings
+saverio+  1668  1090  0 14:14 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-clipboard
+saverio+  1671  1090  0 14:14 tty2     00:00:02 /usr/lib/gnome-settings-daemon/gsd-color
+saverio+  1675  1090  0 14:14 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-datetime
+saverio+  1677  1090  0 14:14 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-housekeeping
+saverio+  1678  1090  0 14:14 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-keyboard
+saverio+  1684  1090  0 14:14 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-media-keys
+saverio+  1685  1090  0 14:14 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-mouse
+saverio+  1704     1  0 14:14 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-printer
+saverio+  1728  1090  0 14:14 tty2     00:00:00 /usr/lib/gnome-disk-utility/gsd-disk-utility-notify
+saverio+  1735  1090  0 14:14 tty2     00:00:12 nautilus-desktop
+saverio+  1740  1090  0 14:14 tty2     00:00:00 /usr/lib/evolution/evolution-data-server/evolution-alarm-notify
+saverio+  1754  1231  0 14:14 ?        00:00:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.7 /org/gtk/gvfs/exec_spaw/0
+saverio+  1759     1  0 14:14 ?        00:00:25 /home/saveriogzz/.dropbox-dist/dropbox-lnx.x86_64-64.4.141/dropbox
+saverio+  1765   985  0 14:14 ?        00:00:02 /usr/lib/evolution/evolution-calendar-factory
+saverio+  1778   985  0 14:14 ?        00:00:00 /usr/lib/evolution/evolution-addressbook-factory
+saverio+  1878  1425  0 14:14 tty2     00:00:03 /usr/lib/ibus/ibus-engine-simple
+saverio+  2117     1  4 14:14 tty2     00:20:22 /opt/google/chrome/chrome
+saverio+  2123  2117  0 14:14 tty2     00:00:00 cat
+saverio+  2124  2117  0 14:14 tty2     00:00:00 cat
+saverio+  2128  2117  0 14:14 tty2     00:00:00 /opt/google/chrome/chrome --type=zygote --enable-crash-reporter=6306bb95-2ff4-4a49-90d2-4f70d9de82b4,
+saverio+  2131  2128  0 14:14 tty2     00:00:00 /opt/google/chrome/nacl_helper
+saverio+  2134  2128  0 14:14 tty2     00:00:00 /opt/google/chrome/chrome --type=zygote --enable-crash-reporter=6306bb95-2ff4-4a49-90d2-4f70d9de82b4,
+saverio+  2159  2117  1 14:14 tty2     00:08:05 /opt/google/chrome/chrome --type=gpu-process --field-trial-handle=4803797172773046980,1000624682571573616,131072 --enable-crash-reporter=6306bb95-2ff4-4a49-90d2-4f70d9de82b4, --gpu-preferences=KAAAAAAAAACAAACAAQAAAAAAAAAAAGAAAAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --enable-crash-reporter=6306bb95-2ff4-4a49-90d2-4f70d9de82b4, --service-request-channel-token=7052259291387996420
+saverio+  2280  2134  0 14:14 tty2     00:01:19 /opt/google/chrome/chrome --type=renderer --field-trial-handle=4803797172773046980,1000624682571573616,131072 --service-pipe-token=2506659881075815034 --lang=en-US --enable-crash-reporter=6306bb95-2ff4-4a49-90d2-4f70d9de82b4, --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=2506659881075815034 --renderer-client-id=3 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+saverio+  2362  2134  0 14:14 tty2     00:03:10 /opt/google/chrome/chrome --type=renderer --field-trial-handle=4803797172773046980,1000624682571573616,131072 --service-pipe-token=634576307297613091 --lang=en-US --enable-crash-reporter=6306bb95-2ff4-4a49-90d2-4f70d9de82b4, --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=634576307297613091 --renderer-client-id=4 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+saverio+  2368  2134  0 14:14 tty2     00:00:11 /opt/google/chrome/chrome --type=renderer --field-trial-handle=4803797172773046980,1000624682571573616,131072 --service-pipe-token=16700425313127160881 --lang=en-US --enable-crash-reporter=6306bb95-2ff4-4a49-90d2-4f70d9de82b4, --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=16700425313127160881 --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+saverio+  2449  2134  0 14:14 tty2     00:00:20 /opt/google/chrome/chrome --type=renderer --field-trial-handle=4803797172773046980,1000624682571573616,131072 --service-pipe-token=563175314792980830 --lang=en-US --enable-crash-reporter=6306bb95-2ff4-4a49-90d2-4f70d9de82b4, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=563175314792980830 --renderer-client-id=14 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+saverio+  2622  1090  0 14:15 tty2     00:00:00 update-notifier
+saverio+  2625  1090  0 14:15 tty2     00:00:04 /usr/bin/gnome-software --gapplication-service
+saverio+  2868  1090  0 14:16 tty2     00:00:00 /usr/lib/deja-dup/deja-dup-monitor
+saverio+  4087  2134  0 15:10 tty2     00:00:35 /opt/google/chrome/chrome --type=renderer --field-trial-handle=4803797172773046980,1000624682571573616,131072 --service-pipe-token=11357051809793411025 --lang=en-US --enable-crash-reporter=6306bb95-2ff4-4a49-90d2-4f70d9de82b4, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=11357051809793411025 --renderer-client-id=86 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+saverio+  4218  2134  2 15:11 tty2     00:10:44 /opt/google/chrome/chrome --type=renderer --field-trial-handle=4803797172773046980,1000624682571573616,131072 --service-pipe-token=2337767909148804098 --lang=en-US --enable-crash-reporter=6306bb95-2ff4-4a49-90d2-4f70d9de82b4, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=2337767909148804098 --renderer-client-id=95 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+saverio+  4416  1231  0 15:14 ?        00:00:09 /usr/lib/gvfs/gvfsd-google --spawner :1.7 /org/gtk/gvfs/exec_spaw/1
+saverio+  4739  1231  0 15:21 ?        00:00:00 /usr/lib/gvfs/gvfsd-network --spawner :1.7 /org/gtk/gvfs/exec_spaw/8
+saverio+  4780  1231  0 15:21 ?        00:00:00 /usr/lib/gvfs/gvfsd-dnssd --spawner :1.7 /org/gtk/gvfs/exec_spaw/11
+saverio+  6847  2134  0 16:18 tty2     00:00:54 /opt/google/chrome/chrome --type=renderer --field-trial-handle=4803797172773046980,1000624682571573616,131072 --service-pipe-token=8120916008161433057 --lang=en-US --enable-crash-reporter=6306bb95-2ff4-4a49-90d2-4f70d9de82b4, --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=8120916008161433057 --renderer-client-id=223 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+saverio+  6875  2134  0 16:18 tty2     00:03:06 /opt/google/chrome/chrome --type=renderer --field-trial-handle=4803797172773046980,1000624682571573616,131072 --service-pipe-token=12125252932828740137 --lang=en-US --enable-crash-reporter=6306bb95-2ff4-4a49-90d2-4f70d9de82b4, --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=12125252932828740137 --renderer-client-id=224 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+saverio+  7661  2134  1 16:35 tty2     00:04:25 /opt/google/chrome/chrome --type=renderer --field-trial-handle=4803797172773046980,1000624682571573616,131072 --service-pipe-token=6947365959764209534 --lang=en-US --enable-crash-reporter=6306bb95-2ff4-4a49-90d2-4f70d9de82b4, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=6947365959764209534 --renderer-client-id=265 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+saverio+  7960   985  0 16:39 ?        00:00:00 /usr/bin/seahorse --gapplication-service
+saverio+   985     1  0 14:13 ?        00:00:00 /lib/systemd/systemd --user
+saverio+   991   985  0 14:13 ?        00:00:00 (sd-pam)
+syslog     857     1  0 14:13 ?        00:00:00 /usr/sbin/rsyslogd -n
+systemd+   444     1  0 14:13 ?        00:00:01 /lib/systemd/systemd-resolved
+systemd+   450     1  0 14:13 ?        00:00:00 /lib/systemd/systemd-timesyncd
+UID        PID  PPID  C STIME TTY          TIME CMD
+uuidd     1994     1  0 14:14 ?        00:00:00 /usr/sbin/uuidd --socket-activation
+whoopsie  1345     1  0 14:14 ?        00:00:00 /usr/bin/whoopsie -f
