@@ -1,3 +1,15 @@
 .DS_store
 
 **/.ipynb_checkpoints/**
+
+######################
+# USSD_PythonforDS
+
+DSE200x_Python_for_DataScience/Week4-Pandas/movielens
+*.sqlite
+*.csv
+*.pkl
+*.zip
+
+######################
+
