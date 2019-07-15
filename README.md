@@ -14,3 +14,10 @@ I took inspiration from Siraj Raval's https://github.com/llSourcell/Learn_Comput
 
 ### ALGS200x_Algorithmic_Design_and_Techniques
 - https://www.edx.org/course/algorithmic-design-and-techniques
+
+### DSE200x_Python_for_DataScience
+- https://www.edx.org/course/python-for-data-science-2
+
+### DSE210x_Probability_and_Statistics_in_DataScience_using_Python
+- https://www.edx.org/course/probability-and-statistics-in-data-science-using-python-2
+
