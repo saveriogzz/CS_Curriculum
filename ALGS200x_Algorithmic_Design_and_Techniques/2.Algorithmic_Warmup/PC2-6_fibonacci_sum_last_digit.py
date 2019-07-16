@@ -29,7 +29,7 @@ def fibonacci_sum(n):
     if n < 2: return n
 
     n %= pisano
-    
+
     fib_arr = [1,1]
     for _ in range(n):
         fib_arr.append((fib_arr[-1] + fib_arr[-2]) % 10)
@@ -70,7 +70,6 @@ def fibonacci_sum(n):
     return fib_mod_ten(n%pisano_period(m = 10))
 
 
->>>>>>> dc8caf94154a6bd208c8529eb5aca9092a8f8fea
 
 if __name__ == '__main__':
     input = sys.stdin.read()
