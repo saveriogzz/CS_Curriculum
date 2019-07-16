@@ -18,15 +18,24 @@ def fibonacci_sum_naive(n):
     return sum % 10
 """
 
+# Knowing that Pisano Period
+# of modulo 10 is 60:
+
 def fibonacci_sum(n):
+
+    pisano = 60
+
     if n < 2: return n
 
+    n %= pisano
+    
     fib_arr = [1,1]
-    for _ in range(n-2):
-        fib_arr.append(fib_arr[-1] + fib_arr[-2])
-    return fib_arr[-1]
+    for _ in range(n):
+        fib_arr.append((fib_arr[-1] + fib_arr[-2]) % 10)
+
+    return (fib_arr[-1] - 1) % 10
 
 if __name__ == '__main__':
     input = sys.stdin.read()
     n = int(input)
-    print(fibonacci_sum_naive(n))
+    print(fibonacci_sum(n))

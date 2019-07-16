@@ -51,7 +51,7 @@ def get_fibonacci_huge(n, m):
 
         return result
 
-    return fib(n%pisano_period(m)) % m
+    return fib(n%pisano_period(m), m)
 
 if __name__ == '__main__':
     input = sys.stdin.read();
