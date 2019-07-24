@@ -3,12 +3,16 @@ import sys
 def maxSalary(numbers):
 
     def greatOrEqual(number, max_number):
-        pass
+        combination1 = int(str(number) + str(max_number))
+        combination2 = int(str(max_number) + str(number))
+
+        if combination1 >= combination2: return True
+        else: return False
 
     result = []
 
     while numbers:
-        max_number = -float('Inf')
+        max_number = min(numbers)
 
         for number in numbers[:]:
             if greatOrEqual(number, max_number):
