@@ -24,7 +24,5 @@ def maxSalary(numbers):
 
 
 if __name__ == "__main__":
-    data = list(map(int, sys.stdin.read().split()))
-    n = data[0]
-    numbers = data[1:]
+    numbers = list(map(int, sys.stdin.read().split()))
     print(maxSalary(numbers))
