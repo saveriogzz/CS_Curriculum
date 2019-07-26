@@ -1,8 +1,8 @@
 .DS_store
 
-/.ipynb_checkpoints/
+./.ipynb_checkpoints/
 .vscode/
-math4ml.pdf
+./*.pdf
 
 ######################
 # USSD_PythonforDS
