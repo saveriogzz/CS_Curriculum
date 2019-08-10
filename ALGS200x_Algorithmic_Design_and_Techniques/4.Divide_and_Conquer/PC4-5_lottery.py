@@ -42,7 +42,7 @@ def lottery_sort(segments, bets):
             count -= 1
         res.append(count)
 
-    return sum(res)
+    return res
 
 
 if __name__ == "__main__":
