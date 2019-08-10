@@ -22,9 +22,8 @@ def lottery_sort(segments, bets):
                         for i in range(len(segments) // 2)]
 
     s_open = [i[0] for i in segments]
-    s_close = [i[1] for i in segments]
-
     s_open.sort()
+    s_close = [i[1] for i in segments]
     s_close.sort()
 
     bets = sorted([bet for bet in bets])
