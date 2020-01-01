@@ -2,7 +2,7 @@ import sys
 
 def lcs(A, B):
     """Function to find longest common subsequences
-    in two words, using dynamic programming."""
+    in two sequences, using dynamic programming."""
 
     m, n = len(A), len(B)
     L = [[0 for i in range(m+1)] for j in range(n+1)]
@@ -13,7 +13,7 @@ def lcs(A, B):
                 L[i][j] = max(L[i-1][j], L[i][j-1])
             else:
                 L[i][j] = L[i-1][j-1] + 1
-                
+
     return L[-1][-1]
 
 
